@@ -1,4 +1,6 @@
 ### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=zhangbiao-code)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zhangbiao-code.zhangbiao.code&left_color=green&right_color=red)
 
 <!--
 **zhangbiao-code/zhangbiao-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
